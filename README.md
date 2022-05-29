@@ -42,4 +42,4 @@
  - Substituir as informações das linhas do código 7, 8, 9 de acordo com as informações do seu banco de dados
  
  # Link do Código
- https://github.com/antonioscript/projeto_consultar_CNPJ/blob/main/main.py
+https://github.com/antonioscript/sistema_de_consulta_cadastro_CNPJ/blob/main/main.py.py
