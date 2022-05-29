@@ -5,8 +5,8 @@ import mysql.connector
 mydb = mysql.connector.connect (
 	host = "localhost", 
 	user = "root",
-	password = "1915691",
-	database = "banco_cnpj"
+	password = "sua_senha",
+	database = "seu_banco"
 )
 
 sg.theme("DarkTeal12")
